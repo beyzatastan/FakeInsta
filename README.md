@@ -1,4 +1,4 @@
-# Fake İnstagram
+# Fake Instagram
 A Swift project to create a social media app with an Instagram-like interface, allowing users to share photos, follow others, and explore posts.
 ## Features
 -User Registration and Login (Email/Password or Google Sign-In) <br>
